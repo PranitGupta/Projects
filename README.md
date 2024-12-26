@@ -39,4 +39,5 @@ Term: 30 years
 Extra Payments: $500 every 12th month
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License 
+
